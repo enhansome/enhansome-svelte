@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T18:12:40Z",
+            "last_commit": "2026-08-14T21:03:24Z",
             "owner": "sveltejs",
             "repo": "svelte",
-            "stars": 87977
+            "stars": 87953
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T18:12:40Z",
+            "last_commit": "2026-08-14T21:03:24Z",
             "owner": "sveltejs",
             "repo": "svelte",
-            "stars": 87977
+            "stars": 87953
           }
         }
       ],
@@ -210,7 +210,7 @@
             "last_commit": "2025-09-30T11:08:47Z",
             "owner": "melt-ui",
             "repo": "melt-ui",
-            "stars": 4180
+            "stars": 4181
           }
         },
         {
@@ -235,7 +235,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:30:15Z",
+            "last_commit": "2026-08-14T19:45:39Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2895
@@ -263,7 +263,7 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-08-12T16:41:11Z",
+            "last_commit": "2026-08-14T17:13:17Z",
             "owner": "techniq",
             "repo": "svelte-ux",
             "stars": 1129
@@ -361,10 +361,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:26:38Z",
+            "last_commit": "2026-08-14T23:52:24Z",
             "owner": "AgentsKit-io",
             "repo": "agentskit",
-            "stars": 21
+            "stars": 22
           }
         }
       ],
@@ -389,7 +389,7 @@
             "last_commit": "2026-07-21T16:51:30Z",
             "owner": "vincjo",
             "repo": "datatables",
-            "stars": 587
+            "stars": 588
           }
         },
         {
@@ -518,7 +518,7 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-04-24T14:36:25Z",
+            "last_commit": "2026-08-14T22:46:09Z",
             "owner": "wobsoriano",
             "repo": "svelte-sonner",
             "stars": 1282
@@ -631,7 +631,7 @@
             "last_commit": "2026-08-11T08:22:43Z",
             "owner": "lucide-icons",
             "repo": "lucide",
-            "stars": 23944
+            "stars": 23958
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-01-14T10:52:48Z",
             "owner": "unplugin",
             "repo": "unplugin-icons",
-            "stars": 4921
+            "stars": 4923
           }
         },
         {
@@ -659,7 +659,7 @@
             "last_commit": "2026-08-12T01:26:08Z",
             "owner": "glincker",
             "repo": "thesvg",
-            "stars": 2558
+            "stars": 2560
           }
         },
         {
@@ -687,7 +687,7 @@
             "last_commit": "2026-08-11T21:06:53Z",
             "owner": "jis3r",
             "repo": "icons",
-            "stars": 441
+            "stars": 443
           }
         },
         {
@@ -830,10 +830,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-30T14:17:47Z",
+            "last_commit": "2026-08-14T22:14:54Z",
             "owner": "schedule-x",
             "repo": "schedule-x",
-            "stars": 2525
+            "stars": 2526
           }
         },
         {
@@ -971,7 +971,7 @@
             "last_commit": "2026-08-11T16:45:22Z",
             "owner": "mhkeller",
             "repo": "layercake",
-            "stars": 1786
+            "stars": 1787
           }
         },
         {
@@ -982,7 +982,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T02:54:28Z",
+            "last_commit": "2026-08-14T17:29:19Z",
             "owner": "techniq",
             "repo": "layerchart",
             "stars": 1295
@@ -999,7 +999,7 @@
             "last_commit": "2026-05-15T00:47:48Z",
             "owner": "himynameisdave",
             "repo": "svelte-frappe-charts",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -1033,7 +1033,7 @@
             "last_commit": "2026-07-18T20:09:36Z",
             "owner": "barvian",
             "repo": "number-flow",
-            "stars": 7632
+            "stars": 7634
           }
         },
         {
@@ -1190,10 +1190,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:08:10Z",
+            "last_commit": "2026-08-14T17:11:52Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82340
+            "stars": 82354
           }
         },
         {
@@ -1204,10 +1204,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T00:33:05Z",
+            "last_commit": "2026-08-14T23:38:33Z",
             "owner": "sveltejs",
             "repo": "kit",
-            "stars": 20740
+            "stars": 20741
           }
         },
         {
@@ -1330,7 +1330,7 @@
             "last_commit": "2026-08-11T21:06:53Z",
             "owner": "jis3r",
             "repo": "icons",
-            "stars": 441
+            "stars": 443
           }
         },
         {
@@ -1370,7 +1370,7 @@
             "last_commit": "2026-07-31T16:01:21Z",
             "owner": "thisuxhq",
             "repo": "sveltednd",
-            "stars": 599
+            "stars": 600
           }
         }
       ],
@@ -1387,7 +1387,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:58:47Z",
+            "last_commit": "2026-08-14T02:03:41Z",
             "owner": "ealush",
             "repo": "vest",
             "stars": 2665
@@ -1545,7 +1545,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T17:57:09Z",
+            "last_commit": "2026-08-14T14:05:14Z",
             "owner": "tolgee",
             "repo": "tolgee-js",
             "stars": 260
@@ -1559,7 +1559,7 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-08-13T12:56:23Z",
+            "last_commit": "2026-08-14T22:14:46Z",
             "owner": "nubolab-ffwd",
             "repo": "svelte-fluent",
             "stars": 113
@@ -1663,7 +1663,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T18:40:12Z",
+            "last_commit": "2026-08-14T20:33:56Z",
             "owner": "colinlienard",
             "repo": "sv-router",
             "stars": 205
@@ -1790,7 +1790,7 @@
             "last_commit": "2026-07-21T16:44:08Z",
             "owner": "sveltejs",
             "repo": "prettier-plugin-svelte",
-            "stars": 813
+            "stars": 814
           }
         },
         {
@@ -1801,7 +1801,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:02:38Z",
+            "last_commit": "2026-08-14T17:48:53Z",
             "owner": "sveltejs",
             "repo": "eslint-plugin-svelte",
             "stars": 400
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:40:24.469Z",
+    "last_updated": "2026-08-14T23:54:23.827Z",
     "original_repository": "TheComputerM/awesome-svelte",
     "original_repository_sha": "6d68f78e16b0c29ba13b27df662b023911cd6b9d",
     "enhanced_repository": "enhansome/enhansome-svelte",
