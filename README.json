@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 74293321,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T02:21:15Z",
+                "last_commit": "2026-08-19T21:21:11Z",
                 "owner": "sveltejs",
                 "repo": "svelte",
-                "stars": 87980
+                "stars": 87977
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 74293321,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T02:21:15Z",
+                "last_commit": "2026-08-19T21:21:11Z",
                 "owner": "sveltejs",
                 "repo": "svelte",
-                "stars": 87980
+                "stars": 87977
               }
             }
           ],
@@ -254,7 +254,7 @@
             "archived": false,
             "id": 228229631,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:51:52Z",
+            "last_commit": "2026-08-19T23:43:43Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2897
@@ -389,10 +389,10 @@
             "archived": false,
             "id": 1199981954,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T16:22:16Z",
+            "last_commit": "2026-08-19T16:48:03Z",
             "owner": "AgentsKit-io",
             "repo": "agentskit",
-            "stars": 24
+            "stars": 25
           }
         }
       ],
@@ -676,7 +676,7 @@
                 "last_commit": "2026-08-19T12:11:26Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24039
+                "stars": 24049
               }
             },
             {
@@ -706,7 +706,7 @@
                 "last_commit": "2026-08-17T06:13:54Z",
                 "owner": "glincker",
                 "repo": "thesvg",
-                "stars": 2577
+                "stars": 2593
               }
             },
             {
@@ -1054,7 +1054,7 @@
                 "archived": false,
                 "id": 395173722,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T21:05:06Z",
+                "last_commit": "2026-08-19T14:08:40Z",
                 "owner": "techniq",
                 "repo": "layerchart",
                 "stars": 1299
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-08-19T12:16:23Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82407
+            "stars": 82413
           }
         },
         {
@@ -1297,10 +1297,10 @@
             "archived": false,
             "id": 304344049,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T05:26:24Z",
+            "last_commit": "2026-08-19T21:10:21Z",
             "owner": "sveltejs",
             "repo": "kit",
-            "stars": 20745
+            "stars": 20747
           }
         },
         {
@@ -1315,7 +1315,7 @@
             "last_commit": "2026-03-21T20:53:07Z",
             "owner": "scosman",
             "repo": "CMSaasStarter",
-            "stars": 2353
+            "stars": 2352
           }
         },
         {
@@ -1413,7 +1413,7 @@
                 "last_commit": "2026-08-19T05:46:54Z",
                 "owner": "meursyphus",
                 "repo": "ssgoi",
-                "stars": 956
+                "stars": 957
               }
             },
             {
@@ -1625,7 +1625,7 @@
                 "archived": false,
                 "id": 438193963,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T07:41:15Z",
+                "last_commit": "2026-08-19T23:45:01Z",
                 "owner": "sveltekit-i18n",
                 "repo": "lib",
                 "stars": 575
@@ -1640,7 +1640,7 @@
                 "archived": false,
                 "id": 1001375218,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T09:41:15Z",
+                "last_commit": "2026-08-19T14:20:38Z",
                 "owner": "wuchalejs",
                 "repo": "wuchale",
                 "stars": 399
@@ -1658,7 +1658,7 @@
                 "last_commit": "2026-08-19T11:09:38Z",
                 "owner": "tolgee",
                 "repo": "tolgee-js",
-                "stars": 259
+                "stars": 260
               }
             },
             {
@@ -1670,7 +1670,7 @@
                 "archived": false,
                 "id": 276360190,
                 "language": "Svelte",
-                "last_commit": "2026-08-18T15:49:26Z",
+                "last_commit": "2026-08-19T17:01:01Z",
                 "owner": "nubolab-ffwd",
                 "repo": "svelte-fluent",
                 "stars": 113
@@ -1714,7 +1714,7 @@
             "last_commit": "2024-07-25T20:53:55Z",
             "owner": "EmilTholin",
             "repo": "svelte-routing",
-            "stars": 2053
+            "stars": 2051
           }
         },
         {
@@ -1786,10 +1786,10 @@
             "archived": false,
             "id": 891105457,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T06:10:30Z",
+            "last_commit": "2026-08-19T16:10:25Z",
             "owner": "colinlienard",
             "repo": "sv-router",
-            "stars": 205
+            "stars": 206
           }
         },
         {
@@ -1885,7 +1885,7 @@
             "last_commit": "2022-11-21T10:44:49Z",
             "owner": "Elderjs",
             "repo": "elderjs",
-            "stars": 2123
+            "stars": 2121
           }
         },
         {
@@ -2029,7 +2029,7 @@
                     "last_commit": "2025-04-07T02:39:34Z",
                     "owner": "leafOfTree",
                     "repo": "vim-svelte-plugin",
-                    "stars": 148
+                    "stars": 149
                   }
                 }
               ],
@@ -2090,7 +2090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:57.821Z",
+    "last_updated": "2026-08-19T23:53:21.562Z",
     "original_repository": "TheComputerM/awesome-svelte",
     "original_repository_id": 299685925,
     "original_repository_sha": "6d68f78e16b0c29ba13b27df662b023911cd6b9d",
