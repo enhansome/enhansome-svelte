@@ -69,8 +69,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/sveltejs/svelte) ⭐ 87,970 | 🐛 1,073 | 🌐 JavaScript | 📅 2026-08-21
-* [Changelog](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md) ⭐ 87,970 | 🐛 1,073 | 🌐 JavaScript | 📅 2026-08-21
+* [GitHub Repo](https://github.com/sveltejs/svelte) ⭐ 87,978 | 🐛 1,073 | 🌐 JavaScript | 📅 2026-08-21
+* [Changelog](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md) ⭐ 87,978 | 🐛 1,073 | 🌐 JavaScript | 📅 2026-08-21
 * [Official Guide](https://svelte.dev/tutorial)
 * [API Reference](https://svelte.dev/docs)
 
@@ -141,9 +141,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Melt UI](https://github.com/melt-ui/melt-ui) ⭐ 4,183 | 🐛 122 | 🌐 TypeScript | 📅 2025-09-30 - A collection of accessible, reusable, and composable headless component builders and utilities.
 * [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) ⭐ 3,440 | 🐛 72 | 🌐 SCSS | 📅 2026-08-04 - Material UI Components.
-* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,897 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-21 - Svelte implementation of the IBM Carbon Design System.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) ⭐ 2,897 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-22 - Svelte implementation of the IBM Carbon Design System.
 * [Smelte](https://github.com/matyunya/smelte) ⭐ 1,543 | 🐛 110 | 🌐 Svelte | 📅 2025-02-17 - UI framework with material components built with Tailwind CSS. *(pre-v5)*
-* [Svelte UX](https://github.com/techniq/svelte-ux) ⭐ 1,127 | 🐛 116 | 🌐 Svelte | 📅 2026-08-20 - Large collection of components, actions, stores, and utilities to build highly interactive applications
+* [Svelte UX](https://github.com/techniq/svelte-ux) ⭐ 1,127 | 🐛 116 | 🌐 Svelte | 📅 2026-08-22 - Large collection of components, actions, stores, and utilities to build highly interactive applications
 * [attractions](https://github.com/illright/attractions) ⚠️ Archived - A pretty cool and modern UI kit. *(pre-v5)*
 * [AgnosticUI](https://github.com/agnosticui/agnosticui) ⭐ 824 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-30 - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 * [M3 Svelte](https://github.com/KTibow/m3-svelte) ⭐ 455 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-18 - Robust component library implementing Material Design 3
@@ -186,8 +186,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Toaster / snackbar - Notify the user with a modeless temporary little popup.*
 
-* [svelte-sonner](https://github.com/wobsoriano/svelte-sonner) ⭐ 1,286 | 🐛 19 | 🌐 Svelte | 📅 2026-08-14 - An opinionated toast component for Svelte.
-* [svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) ⭐ 1,053 | 🐛 36 | 🌐 Svelte | 📅 2026-05-15 - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+* [svelte-sonner](https://github.com/wobsoriano/svelte-sonner) ⭐ 1,287 | 🐛 19 | 🌐 Svelte | 📅 2026-08-14 - An opinionated toast component for Svelte.
+* [svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) ⭐ 1,055 | 🐛 36 | 🌐 Svelte | 📅 2026-05-15 - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 * [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) ⭐ 899 | 🐛 32 | 🌐 Svelte | 📅 2025-01-22 - Simple elegant toast notifications.
 * [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) ⭐ 316 | 🐛 21 | 🌐 Svelte | 📅 2026-07-08 - Toast notifications component that can be used in any JS application.
 * [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) ⭐ 103 | 🐛 4 | 🌐 JavaScript | 📅 2024-09-26 - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
@@ -199,15 +199,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Icons
 
-* [lucide-svelte](https://github.com/lucide-icons/lucide) ⭐ 24,077 | 🐛 562 | 🌐 TypeScript | 📅 2026-08-20 - Implementation of the lucide icon library for svelte applications.
+* [lucide-svelte](https://github.com/lucide-icons/lucide) ⭐ 24,089 | 🐛 562 | 🌐 TypeScript | 📅 2026-08-20 - Implementation of the lucide icon library for svelte applications.
 * [unplugin-icons](https://github.com/unplugin/unplugin-icons) ⭐ 4,933 | 🐛 86 | 🌐 TypeScript | 📅 2026-01-14 - Access thousands of icons as components on-demand universally.
-* [@thesvg/svelte](https://github.com/glincker/thesvg) ⭐ 2,601 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-20 - 5,600+ SVG brand and cloud icon components for Svelte. AWS, Azure, GCP, and 4,000+ brand logos.
+* [@thesvg/svelte](https://github.com/glincker/thesvg) ⭐ 2,605 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-20 - 5,600+ SVG brand and cloud icon components for Svelte. AWS, Azure, GCP, and 4,000+ brand logos.
 * [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) ⭐ 506 | 🐛 10 | 🌐 TypeScript | 📅 2025-04-21 - Awesome SVG icon component, built with Font Awesome icons.
-* [moving icons](https://github.com/jis3r/icons) ⭐ 446 | 🐛 8 | 🌐 Svelte | 📅 2026-08-11 - A collection of beautifully crafted, animated Lucide icons.
+* [moving icons](https://github.com/jis3r/icons) ⭐ 447 | 🐛 5 | 🌐 Svelte | 📅 2026-08-22 - A collection of beautifully crafted, animated Lucide icons.
 * [svelte-fa](https://github.com/Cweili/svelte-fa) ⭐ 399 | 🐛 14 | 🌐 Svelte | 📅 2025-11-17 - Tiny FontAwesome 5 and 6 component.
 * [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) ⭐ 291 | 🐛 48 | 🌐 Svelte | 📅 2023-02-13 - Icon components.
 * [steeze-ui/icons](https://github.com/steeze-ui/icons) ⭐ 201 | 🐛 8 | 🌐 TypeScript | 📅 2024-11-20 - Effortless Icon Packs & Components for Svelte, React, Vue and more.
-* [svelte-icons-pack](https://github.com/leshak/svelte-icons-pack) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2024-03-27 - Based on <https://github.com/react-icons/react-icons> ⭐ 12,620 | 🐛 240 | 🌐 TypeScript | 📅 2026-08-12.
+* [svelte-icons-pack](https://github.com/leshak/svelte-icons-pack) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2024-03-27 - Based on <https://github.com/react-icons/react-icons> ⭐ 12,621 | 🐛 240 | 🌐 TypeScript | 📅 2026-08-12.
 * [hugeicons](https://github.com/hugeicons/svelte) ⚠️ Archived - Beautiful, production-ready icon package for Svelte with complete icon coverage.
 * [svelte-heroicons](https://github.com/krowten/svelte-heroicons) ⭐ 9 | 🐛 0 | 🌐 Svelte | 📅 2023-01-06 - Icons, crafted by the creators of Tailwind CSS.
 * [svelte-icomoon](https://github.com/aykutkardas/svelte-icomoon) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-10 - It makes it very simple to use SVG icons in your Svelte projects.
@@ -233,7 +233,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Charts
 
-* [Layer Cake](https://github.com/mhkeller/layercake) ⭐ 1,788 | 🐛 7 | 🌐 Svelte | 📅 2026-08-11 - A framework for mostly-reusable graphics with svelte
+* [Layer Cake](https://github.com/mhkeller/layercake) ⭐ 1,789 | 🐛 7 | 🌐 Svelte | 📅 2026-08-22 - A framework for mostly-reusable graphics with svelte
 * [LayerChart](https://github.com/techniq/layerchart) ⭐ 1,304 | 🐛 69 | 🌐 TypeScript | 📅 2026-08-20 - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 * [svelte-frappe-charts](https://github.com/himynameisdave/svelte-frappe-charts) ⭐ 319 | 🐛 13 | 🌐 Svelte | 📅 2026-05-15 - Svelte bindings for frappe-charts.
 * [SVAR Gantt Chart](https://github.com/svar-widgets/gantt) ⭐ 251 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-29 - An interactive, customizable Gantt chart component written in Svelte
@@ -263,8 +263,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Templates / boilerplate / starter kits / stack ensemble / Yeoman generator.*
 
-* [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) ⭐ 82,451 | 🐛 755 | 🌐 TypeScript | 📅 2026-08-21 - Generates scaffold for a vite + svelte app.
-* [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) ⭐ 20,754 | 🐛 842 | 🌐 JavaScript | 📅 2026-08-21 - A CLI for creating a new SvelteKit project.
+* [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) ⭐ 82,476 | 🐛 756 | 🌐 TypeScript | 📅 2026-08-22 - Generates scaffold for a vite + svelte app.
+* [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) ⭐ 20,755 | 🐛 847 | 🌐 JavaScript | 📅 2026-08-22 - A CLI for creating a new SvelteKit project.
 * [saasstarter](https://github.com/CriticalMoments/CMSaasStarter) ⭐ 2,353 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 - A open source, fast, and free to host Svelte SaaS template.
 * [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) ⭐ 225 | 🐛 3 | 🌐 JavaScript | 📅 2024-08-30 - A starter template for PWAs based in the official Template. *(pre-v5)*
 * [svelte-docs-starter](https://github.com/code-gio/svelte-docs-starter) ⭐ 89 | 🐛 1 | 🌐 Svelte | 📅 2026-03-23 - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
@@ -277,7 +277,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Animations
 
 * [ssgoi](https://github.com/meursyphus/ssgoi) ⭐ 958 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-19 - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support.
-* [moving-icons](https://github.com/jis3r/icons) ⭐ 446 | 🐛 8 | 🌐 Svelte | 📅 2026-08-11 - beautifully crafted, moving icons. for svelte. 🧡
+* [moving-icons](https://github.com/jis3r/icons) ⭐ 447 | 🐛 5 | 🌐 Svelte | 📅 2026-08-22 - beautifully crafted, moving icons. for svelte. 🧡
 * [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
 * [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
@@ -288,7 +288,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Forms
 
-* [vest](https://github.com/ealush/vest) ⭐ 2,665 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-21 - 🦺 Declarative form validation framework inspired by unit testing.
+* [vest](https://github.com/ealush/vest) ⭐ 2,665 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-22 - 🦺 Declarative form validation framework inspired by unit testing.
 * [svelte-formly](https://github.com/arabdevelop/svelte-formly) ⭐ 254 | 🐛 11 | 🌐 Svelte | 📅 2023-10-06 - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. *(pre-v5)*
 * [svelte-form-builder](https://github.com/pragmatic-engineering/svelte-form-builder-community) ⭐ 74 | 🐛 5 | 🌐 Svelte | 📅 2024-04-21 - A No-code Drag n Drop Form Builder built for Svelte.
 * [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
@@ -306,7 +306,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### HTTP Requests
 
-* [sswr](https://github.com/ConsoleTVs/sswr) ⭐ 293 | 🐛 16 | 🌐 TypeScript | 📅 2026-06-14 - Svelte stale while revalidate (SWR) data fetching strategy.
+* [sswr](https://github.com/ConsoleTVs/sswr) ⭐ 294 | 🐛 16 | 🌐 TypeScript | 📅 2026-06-14 - Svelte stale while revalidate (SWR) data fetching strategy.
 * [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
 * [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
 
@@ -335,8 +335,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Internationalization
 
 * [svelte-i18n](https://github.com/kaisermann/svelte-i18n) ⭐ 1,377 | 🐛 74 | 🌐 TypeScript | 📅 2024-10-21 - Internationalization library for Svelte.
-* [sveltekit-i18n](https://github.com/jarda-svoboda/sveltekit-i18n) ⭐ 575 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-21 - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
-* [wuchale](https://github.com/K1DV5/wuchale) ⭐ 399 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-20 - Internationalization library that lets you just write your code, no function calls or other ceremonies needed.
+* [sveltekit-i18n](https://github.com/jarda-svoboda/sveltekit-i18n) ⭐ 575 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-21 - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
+* [wuchale](https://github.com/K1DV5/wuchale) ⭐ 399 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-22 - Internationalization library that lets you just write your code, no function calls or other ceremonies needed.
 * [@tolgee/svelte](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) ⭐ 260 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-19 - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 * [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) ⭐ 113 | 🐛 12 | 🌐 Svelte | 📅 2026-08-21 - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
 * [@i18n-pro/svelte](https://github.com/i18n-pro/svelte) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2025-09-06 - Lightweight, simple, flexible, automatic translation internationalization tool for Svelte.
@@ -352,7 +352,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [tinro](https://github.com/AlexxNB/tinro) ⚠️ Archived - A tiny, dependency free and highly declarative router.
 * [svelte-router-spa](https://github.com/jorgegorka/svelte-router) ⭐ 537 | 🐛 32 | 🌐 JavaScript | 📅 2024-06-18 - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 * [svelte5-router](https://github.com/mateothegreat/svelte5-router) ⭐ 307 | 🐛 26 | 🌐 TypeScript | 📅 2025-10-29 - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
-* [sv-router](https://github.com/colinlienard/sv-router) ⭐ 209 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-21 - Type-safe SPA router with file-based or code-based routing.
+* [sv-router](https://github.com/colinlienard/sv-router) ⭐ 209 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-22 - Type-safe SPA router with file-based or code-based routing.
 * [Elegua](https://github.com/howesteve/elegua) ⭐ 83 | 🐛 2 | 🌐 Svelte | 📅 2024-03-03 - Small (< 180LoC), fast, easy, full featured SPA router
 * [@wjfe/n-savant](https://github.com/WJSoftware/wjfe-n-savant) ⭐ 61 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-29 - Fast, reactive router with always-on path and hash routing, and the router that invented multi-hash routing.
 * [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2024-04-08 - Svelte Client Router is everything you need and think when routing SPA's.
@@ -369,7 +369,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Dev Tools
 
-* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 670 | 🐛 236 | 🌐 ReScript | 📅 2026-08-21 - Open-source AI coding agent that lives in your browser with click-to-edit and hot reload for Svelte apps.
+* [Frontman](https://github.com/frontman-ai/frontman) ⭐ 672 | 🐛 241 | 🌐 ReScript | 📅 2026-08-22 - Open-source AI coding agent that lives in your browser with click-to-edit and hot reload for Svelte apps.
 
 ### Adapters
 
@@ -415,9 +415,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Desktop
 
-* [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) ⭐ 116 | 🐛 0 | 🌐 Rust | 📅 2026-08-12 - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
+* [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) ⭐ 117 | 🐛 0 | 🌐 Rust | 📅 2026-08-12 - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
 * [Zephyr](https://github.com/Prismo-Studio/Zephyr) ⭐ 20 | 🐛 0 | 🌐 Rust | 📅 2026-08-11 - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
