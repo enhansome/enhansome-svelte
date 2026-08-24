@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 74293321,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T21:34:02Z",
+                "last_commit": "2026-08-24T13:42:27Z",
                 "owner": "sveltejs",
                 "repo": "svelte",
-                "stars": 87979
+                "stars": 87981
               }
             },
             {
@@ -29,16 +29,38 @@
                 "archived": false,
                 "id": 74293321,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T21:34:02Z",
+                "last_commit": "2026-08-24T13:42:27Z",
                 "owner": "sveltejs",
                 "repo": "svelte",
-                "stars": 87979
+                "stars": 87981
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Official Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Will it Scale?",
+              "description": "Finding Svelte's inflection point. (pre-v5)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289632258,
+                "language": "JavaScript",
+                "last_commit": "2020-08-25T03:17:47Z",
+                "owner": "halfnelson",
+                "repo": "svelte-it-will-scale",
+                "stars": 175
+              }
+            }
+          ],
+          "description": "Studies and research on the Svelte framework.",
+          "node_type": "group",
+          "title": "Studies"
         }
       ],
       "title": "Resources"
@@ -254,7 +276,7 @@
             "archived": false,
             "id": 228229631,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T23:41:02Z",
+            "last_commit": "2026-08-24T00:37:57Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
             "stars": 2897
@@ -272,7 +294,7 @@
             "last_commit": "2025-02-17T13:34:49Z",
             "owner": "matyunya",
             "repo": "smelte",
-            "stars": 1543
+            "stars": 1544
           }
         },
         {
@@ -287,7 +309,7 @@
             "last_commit": "2026-08-23T17:12:04Z",
             "owner": "techniq",
             "repo": "svelte-ux",
-            "stars": 1127
+            "stars": 1128
           }
         },
         {
@@ -673,10 +695,10 @@
                 "archived": false,
                 "id": 270722949,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:36:33Z",
+                "last_commit": "2026-08-24T12:39:06Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24112
+                "stars": 24136
               }
             },
             {
@@ -691,7 +713,7 @@
                 "last_commit": "2026-01-14T10:52:48Z",
                 "owner": "unplugin",
                 "repo": "unplugin-icons",
-                "stars": 4933
+                "stars": 4934
               }
             },
             {
@@ -703,10 +725,10 @@
                 "archived": false,
                 "id": 1175458728,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T18:49:13Z",
+                "last_commit": "2026-08-24T06:12:39Z",
                 "owner": "glincker",
                 "repo": "thesvg",
-                "stars": 2606
+                "stars": 2610
               }
             },
             {
@@ -893,7 +915,7 @@
                 "last_commit": "2026-08-14T22:14:54Z",
                 "owner": "schedule-x",
                 "repo": "schedule-x",
-                "stars": 2536
+                "stars": 2537
               }
             },
             {
@@ -1109,7 +1131,7 @@
                 "last_commit": "2026-07-18T20:09:36Z",
                 "owner": "barvian",
                 "repo": "number-flow",
-                "stars": 7645
+                "stars": 7646
               }
             },
             {
@@ -1282,10 +1304,10 @@
             "archived": false,
             "id": 257485422,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T17:36:15Z",
+            "last_commit": "2026-08-24T04:58:55Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82494
+            "stars": 82507
           }
         },
         {
@@ -1297,10 +1319,10 @@
             "archived": false,
             "id": 304344049,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T18:02:17Z",
+            "last_commit": "2026-08-24T09:59:00Z",
             "owner": "sveltejs",
             "repo": "kit",
-            "stars": 20758
+            "stars": 20760
           }
         },
         {
@@ -1413,7 +1435,7 @@
                 "last_commit": "2026-08-19T05:46:54Z",
                 "owner": "meursyphus",
                 "repo": "ssgoi",
-                "stars": 958
+                "stars": 959
               }
             },
             {
@@ -1484,7 +1506,7 @@
                 "archived": false,
                 "id": 224295067,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T01:26:19Z",
+                "last_commit": "2026-08-24T01:24:38Z",
                 "owner": "ealush",
                 "repo": "vest",
                 "stars": 2665
@@ -1566,6 +1588,94 @@
           "children": [
             {
               "node_type": "item",
+              "title": "sswr",
+              "description": "Svelte stale while revalidate (SWR) data fetching strategy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307885063,
+                "language": "TypeScript",
+                "last_commit": "2026-06-14T14:52:55Z",
+                "owner": "ConsoleTVs",
+                "repo": "sswr",
+                "stars": 294
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HTTP Requests"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "svelte-sound",
+              "description": "Svelte Actions to play interaction sounds on target DOM events.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570944404,
+                "language": "TypeScript",
+                "last_commit": "2026-05-14T21:47:33Z",
+                "owner": "Rajaniraiyn",
+                "repo": "svelte-sound",
+                "stars": 64
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sound & Video"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "svelthree",
+              "description": "Component library for declarative construction of reactive and reusable three.js scene graphs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269198759,
+                "language": "Svelte",
+                "last_commit": "2024-09-06T23:21:31Z",
+                "owner": "vatro",
+                "repo": "svelthree",
+                "stars": 483
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebGL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SvelteKit-Adapter-Versioned-Worker",
+              "description": "An easy-to-use service worker build plugin where you don't need to worry about cache durations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600267611,
+                "language": "TypeScript",
+                "last_commit": "2024-04-25T16:10:16Z",
+                "owner": "NicoClack",
+                "repo": "SvelteKit-Adapter-Versioned-Worker",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PWA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "svelte-portal",
               "description": "Component for rendering outside the DOM of parent component.",
               "children": [],
@@ -1603,6 +1713,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "svelte-web-fonts/google",
+              "description": "Tiny component for easily loading Fonts via the Google Fonts API including autocompletion.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 395437116,
+                "language": "TypeScript",
+                "last_commit": "2022-06-19T12:42:09Z",
+                "owner": "svelte-web-fonts",
+                "repo": "google",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fonts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "svelte-i18n",
               "description": "Internationalization library for Svelte.",
               "children": [],
@@ -1625,7 +1757,7 @@
                 "archived": false,
                 "id": 438193963,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T13:49:49Z",
+                "last_commit": "2026-08-24T13:02:15Z",
                 "owner": "sveltekit-i18n",
                 "repo": "lib",
                 "stars": 575
@@ -1640,7 +1772,7 @@
                 "archived": false,
                 "id": 1001375218,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T13:45:38Z",
+                "last_commit": "2026-08-24T10:51:35Z",
                 "owner": "wuchalejs",
                 "repo": "wuchale",
                 "stars": 399
@@ -1786,10 +1918,10 @@
             "archived": false,
             "id": 891105457,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T02:28:20Z",
+            "last_commit": "2026-08-24T13:19:20Z",
             "owner": "colinlienard",
             "repo": "sv-router",
-            "stars": 210
+            "stars": 211
           }
         },
         {
@@ -1909,6 +2041,43 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Frontman",
+          "description": "Open-source AI coding agent that lives in your browser with click-to-edit and hot reload for Svelte apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1066256303,
+            "language": "ReScript",
+            "last_commit": "2026-08-24T09:59:19Z",
+            "owner": "frontman-ai",
+            "repo": "frontman",
+            "stars": 674
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JesterKit EXE",
+              "description": "An adapter to distribute your SvelteKit web app as a single executable binary with zero runtime dependencies. Unlike static builds, it preserves all Kit features like SSR, API endpoints, server hooks, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1046261102,
+                "language": "TypeScript",
+                "last_commit": "2025-12-17T09:34:30Z",
+                "owner": "Hugo-Dz",
+                "repo": "exe",
+                "stars": 579
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Adapters"
+        },
         {
           "children": [
             {
@@ -2090,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:52:00.859Z",
+    "last_updated": "2026-08-24T14:05:37.453Z",
     "original_repository": "TheComputerM/awesome-svelte",
     "original_repository_id": 299685925,
     "original_repository_sha": "6d68f78e16b0c29ba13b27df662b023911cd6b9d",
