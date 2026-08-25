@@ -69,8 +69,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/sveltejs/svelte) ⭐ 87,983 | 🐛 1,067 | 🌐 JavaScript | 📅 2026-08-24
-* [Changelog](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md) ⭐ 87,983 | 🐛 1,067 | 🌐 JavaScript | 📅 2026-08-24
+* [GitHub Repo](https://github.com/sveltejs/svelte) ⭐ 87,984 | 🐛 1,068 | 🌐 JavaScript | 📅 2026-08-24
+* [Changelog](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md) ⭐ 87,984 | 🐛 1,068 | 🌐 JavaScript | 📅 2026-08-24
 * [Official Guide](https://svelte.dev/tutorial)
 * [API Reference](https://svelte.dev/docs)
 
@@ -199,9 +199,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Icons
 
-* [lucide-svelte](https://github.com/lucide-icons/lucide) ⭐ 24,143 | 🐛 557 | 🌐 TypeScript | 📅 2026-08-24 - Implementation of the lucide icon library for svelte applications.
+* [lucide-svelte](https://github.com/lucide-icons/lucide) ⭐ 24,150 | 🐛 557 | 🌐 TypeScript | 📅 2026-08-24 - Implementation of the lucide icon library for svelte applications.
 * [unplugin-icons](https://github.com/unplugin/unplugin-icons) ⭐ 4,934 | 🐛 86 | 🌐 TypeScript | 📅 2026-01-14 - Access thousands of icons as components on-demand universally.
-* [@thesvg/svelte](https://github.com/glincker/thesvg) ⭐ 2,612 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-24 - 5,600+ SVG brand and cloud icon components for Svelte. AWS, Azure, GCP, and 4,000+ brand logos.
+* [@thesvg/svelte](https://github.com/glincker/thesvg) ⭐ 2,613 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-24 - 5,600+ SVG brand and cloud icon components for Svelte. AWS, Azure, GCP, and 4,000+ brand logos.
 * [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) ⭐ 506 | 🐛 10 | 🌐 TypeScript | 📅 2025-04-21 - Awesome SVG icon component, built with Font Awesome icons.
 * [moving icons](https://github.com/jis3r/icons) ⭐ 448 | 🐛 6 | 🌐 Svelte | 📅 2026-08-23 - A collection of beautifully crafted, animated Lucide icons.
 * [svelte-fa](https://github.com/Cweili/svelte-fa) ⭐ 399 | 🐛 14 | 🌐 Svelte | 📅 2025-11-17 - Tiny FontAwesome 5 and 6 component.
@@ -263,11 +263,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Templates / boilerplate / starter kits / stack ensemble / Yeoman generator.*
 
-* [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) ⭐ 82,516 | 🐛 753 | 🌐 TypeScript | 📅 2026-08-24 - Generates scaffold for a vite + svelte app.
-* [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) ⭐ 20,763 | 🐛 851 | 🌐 JavaScript | 📅 2026-08-24 - A CLI for creating a new SvelteKit project.
+* [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) ⭐ 82,519 | 🐛 755 | 🌐 TypeScript | 📅 2026-08-24 - Generates scaffold for a vite + svelte app.
+* [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) ⭐ 20,763 | 🐛 853 | 🌐 JavaScript | 📅 2026-08-25 - A CLI for creating a new SvelteKit project.
 * [saasstarter](https://github.com/CriticalMoments/CMSaasStarter) ⭐ 2,355 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 - A open source, fast, and free to host Svelte SaaS template.
 * [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) ⭐ 225 | 🐛 3 | 🌐 JavaScript | 📅 2024-08-30 - A starter template for PWAs based in the official Template. *(pre-v5)*
-* [svelte-docs-starter](https://github.com/code-gio/svelte-docs-starter) ⭐ 89 | 🐛 1 | 🌐 Svelte | 📅 2026-03-23 - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
+* [svelte-docs-starter](https://github.com/code-gio/svelte-docs-starter) ⭐ 90 | 🐛 1 | 🌐 Svelte | 📅 2026-03-23 - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 * [template-svelte](https://github.com/phaserjs/template-svelte) ⭐ 82 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-10 - An official quickstart template with Phaser.
 * [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) ⭐ 66 | 🐛 16 | 🌐 TypeScript | 📅 2026-02-26 - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
 * [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) ⚠️ Archived - Template for Svelte + Docker + Vite + Vitest.
@@ -284,11 +284,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Drag & Drop
 
 * [neodrag](https://github.com/PuruVJ/neodrag) ⭐ 2,450 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-10 - One Draggable to rule them all 💍.
-* sveltednd(<https://github.com/thisuxhq/sveltednd> ⭐ 603 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31) - A lightweight, flexible drag and drop library for Svelte 5 applications.
+* sveltednd(<https://github.com/thisuxhq/sveltednd> ⭐ 602 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31) - A lightweight, flexible drag and drop library for Svelte 5 applications.
 
 ### Forms
 
-* [vest](https://github.com/ealush/vest) ⭐ 2,665 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-24 - 🦺 Declarative form validation framework inspired by unit testing.
+* [vest](https://github.com/ealush/vest) ⭐ 2,665 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-25 - 🦺 Declarative form validation framework inspired by unit testing.
 * [svelte-formly](https://github.com/arabdevelop/svelte-formly) ⭐ 254 | 🐛 11 | 🌐 Svelte | 📅 2023-10-06 - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. *(pre-v5)*
 * [svelte-form-builder](https://github.com/pragmatic-engineering/svelte-form-builder-community) ⭐ 74 | 🐛 5 | 🌐 Svelte | 📅 2024-04-21 - A No-code Drag n Drop Form Builder built for Svelte.
 * [Superforms](https://superforms.rocks) - SvelteKit library for handling server and client validation, and client-side display of forms.
@@ -420,4 +420,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
