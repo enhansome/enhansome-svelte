@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 74293321,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T10:14:02Z",
+                "last_commit": "2026-08-27T21:03:39Z",
                 "owner": "sveltejs",
                 "repo": "svelte",
-                "stars": 87996
-              }
+                "stars": 88009
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 74293321,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T10:14:02Z",
+                "last_commit": "2026-08-27T21:03:39Z",
                 "owner": "sveltejs",
                 "repo": "svelte",
-                "stars": 87996
-              }
+                "stars": 88009
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "halfnelson",
                 "repo": "svelte-it-will-scale",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": "Studies and research on the Svelte framework.",
@@ -83,7 +86,8 @@
                 "owner": "pngwn",
                 "repo": "MDsveX",
                 "stars": 3047
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -98,7 +102,8 @@
                 "owner": "sveltejs",
                 "repo": "svelte-preprocess",
                 "stars": 1797
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -113,7 +118,8 @@
                 "owner": "tivac",
                 "repo": "modular-css",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -128,7 +134,8 @@
                 "owner": "l-portet",
                 "repo": "svelte-switch-case",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -143,7 +150,8 @@
                 "owner": "AlexxNB",
                 "repo": "svelte-preprocess-markdown",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "ls-age",
                 "repo": "svelte-preprocess-sass",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "nvlang",
                 "repo": "sveltex",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "ls-age",
                 "repo": "svelte-preprocess-less",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -214,7 +225,8 @@
             "owner": "Marcisbee",
             "repo": "exome",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -229,7 +241,8 @@
             "owner": "sveltetools",
             "repo": "svelte-asyncable",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         }
       ],
       "title": "State Libraries"
@@ -250,7 +263,8 @@
             "owner": "melt-ui",
             "repo": "melt-ui",
             "stars": 4182
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -264,8 +278,9 @@
             "last_commit": "2026-08-04T00:17:40Z",
             "owner": "hperrin",
             "repo": "svelte-material-ui",
-            "stars": 3441
-          }
+            "stars": 3442
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -276,11 +291,12 @@
             "archived": false,
             "id": 228229631,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:17:07Z",
+            "last_commit": "2026-08-27T22:32:48Z",
             "owner": "carbon-design-system",
             "repo": "carbon-components-svelte",
-            "stars": 2900
-          }
+            "stars": 2902
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -295,7 +311,8 @@
             "owner": "matyunya",
             "repo": "smelte",
             "stars": 1544
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -310,7 +327,8 @@
             "owner": "techniq",
             "repo": "svelte-ux",
             "stars": 1128
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -325,7 +343,8 @@
             "owner": "illright",
             "repo": "attractions",
             "stars": 1020
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -340,7 +359,8 @@
             "owner": "AgnosticUI",
             "repo": "agnosticui",
             "stars": 824
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -355,7 +375,8 @@
             "owner": "KTibow",
             "repo": "m3-svelte",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -369,8 +390,9 @@
             "last_commit": "2026-06-03T13:24:30Z",
             "owner": "svar-widgets",
             "repo": "core",
-            "stars": 269
-          }
+            "stars": 270
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -385,7 +407,8 @@
             "owner": "sveltestrap",
             "repo": "sveltestrap",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -400,7 +423,8 @@
             "owner": "Tommertom",
             "repo": "svelte-ionic-app",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -411,11 +435,12 @@
             "archived": false,
             "id": 1199981954,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T20:38:43Z",
+            "last_commit": "2026-08-27T20:35:23Z",
             "owner": "AgentsKit-io",
             "repo": "agentskit",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         }
       ],
       "title": "UI Libraries"
@@ -438,7 +463,8 @@
                 "owner": "vincjo",
                 "repo": "datatables",
                 "stars": 589
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -453,7 +479,8 @@
                 "owner": "dasDaniel",
                 "repo": "svelte-table",
                 "stars": 562
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -468,7 +495,8 @@
                 "owner": "svar-widgets",
                 "repo": "grid",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -483,7 +511,8 @@
                 "owner": "muonw",
                 "repo": "muonw-powertable",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -498,7 +527,8 @@
                 "owner": "revolist",
                 "repo": "svelte-datagrid",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -513,7 +543,8 @@
                 "owner": "ivosdc",
                 "repo": "svelte-generic-crud-table",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -528,7 +559,8 @@
                 "owner": "jjagielka",
                 "repo": "svelte-pivottable",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -543,7 +575,8 @@
                 "owner": "WJSoftware",
                 "repo": "wjfe-dataview",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -558,7 +591,8 @@
                 "owner": "ivosdc",
                 "repo": "svelte-generic-table-pager",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": "Tables and data grids.",
@@ -580,7 +614,8 @@
                 "owner": "wobsoriano",
                 "repo": "svelte-sonner",
                 "stars": 1290
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -594,8 +629,9 @@
                 "last_commit": "2026-05-15T00:23:57Z",
                 "owner": "kbrgl",
                 "repo": "svelte-french-toast",
-                "stars": 1057
-              }
+                "stars": 1058
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -610,7 +646,8 @@
                 "owner": "zerodevx",
                 "repo": "svelte-toast",
                 "stars": 898
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -625,7 +662,8 @@
                 "owner": "beyonk",
                 "repo": "svelte-notifications",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -640,7 +678,8 @@
                 "owner": "kevmodrome",
                 "repo": "svelte-favicon-badge",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": "Toaster / snackbar - Notify the user with a modeless temporary little popup.",
@@ -662,7 +701,8 @@
                 "owner": "himynameisdave",
                 "repo": "svelte-flex",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -677,7 +717,8 @@
                 "owner": "andrelmlins",
                 "repo": "svelte-grid-responsive",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -695,11 +736,12 @@
                 "archived": false,
                 "id": 270722949,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T19:50:13Z",
+                "last_commit": "2026-08-28T07:02:00Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24198
-              }
+                "stars": 24213
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -714,7 +756,8 @@
                 "owner": "unplugin",
                 "repo": "unplugin-icons",
                 "stars": 4934
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -728,8 +771,9 @@
                 "last_commit": "2026-08-25T17:36:11Z",
                 "owner": "glincker",
                 "repo": "thesvg",
-                "stars": 2617
-              }
+                "stars": 2618
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -744,7 +788,8 @@
                 "owner": "robbrazier",
                 "repo": "svelte-awesome",
                 "stars": 506
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -758,8 +803,9 @@
                 "last_commit": "2026-08-23T19:29:05Z",
                 "owner": "jis3r",
                 "repo": "icons",
-                "stars": 450
-              }
+                "stars": 451
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -774,7 +820,8 @@
                 "owner": "Cweili",
                 "repo": "svelte-fa",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -789,7 +836,8 @@
                 "owner": "Introvertuous",
                 "repo": "svelte-icons",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -804,7 +852,8 @@
                 "owner": "steeze-ui",
                 "repo": "icons",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -819,7 +868,8 @@
                 "owner": "leshak",
                 "repo": "svelte-icons-pack",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -834,7 +884,8 @@
                 "owner": "hugeicons",
                 "repo": "svelte",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -849,7 +900,8 @@
                 "owner": "krowten",
                 "repo": "svelte-heroicons",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -864,7 +916,8 @@
                 "owner": "aykutkardas",
                 "repo": "svelte-icomoon",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -879,7 +932,8 @@
                 "owner": "devShamim",
                 "repo": "svelte-unicons",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -894,7 +948,8 @@
                 "owner": "pouchlabs",
                 "repo": "svesome",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -912,11 +967,12 @@
                 "archived": false,
                 "id": 666867512,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:41:40Z",
+                "last_commit": "2026-08-28T05:55:21Z",
                 "owner": "schedule-x",
                 "repo": "schedule-x",
-                "stars": 2541
-              }
+                "stars": 2542
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -931,7 +987,8 @@
                 "owner": "6eDesign",
                 "repo": "svelte-calendar",
                 "stars": 541
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -946,7 +1003,8 @@
                 "owner": "kasper9n",
                 "repo": "date-picker-svelte",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -961,7 +1019,8 @@
                 "owner": "YogliB",
                 "repo": "svelte-fullcalendar",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": "Display non-editable events in a calendar.",
@@ -983,7 +1042,8 @@
                 "owner": "dimfeld",
                 "repo": "svelte-maplibre",
                 "stars": 520
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -998,7 +1058,8 @@
                 "owner": "beyonk",
                 "repo": "svelte-mapbox",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1013,7 +1074,8 @@
                 "owner": "beyonk",
                 "repo": "svelte-googlemaps",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1028,7 +1090,8 @@
                 "owner": "anoram",
                 "repo": "leaflet-svelte",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1043,7 +1106,8 @@
                 "owner": "gavinr-maps",
                 "repo": "esri-svelte-example",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1065,7 +1129,8 @@
                 "owner": "mhkeller",
                 "repo": "layercake",
                 "stars": 1790
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1076,11 +1141,12 @@
                 "archived": false,
                 "id": 395173722,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:39:33Z",
+                "last_commit": "2026-08-27T15:50:12Z",
                 "owner": "techniq",
                 "repo": "layerchart",
-                "stars": 1306
-              }
+                "stars": 1307
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1095,7 +1161,8 @@
                 "owner": "himynameisdave",
                 "repo": "svelte-frappe-charts",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1110,7 +1177,8 @@
                 "owner": "svar-widgets",
                 "repo": "gantt",
                 "stars": 253
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1131,8 +1199,9 @@
                 "last_commit": "2026-07-18T20:09:36Z",
                 "owner": "barvian",
                 "repo": "number-flow",
-                "stars": 7652
-              }
+                "stars": 7655
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1147,7 +1216,8 @@
                 "owner": "orefalo",
                 "repo": "svelte-splitpanes",
                 "stars": 477
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1162,7 +1232,8 @@
                 "owner": "efstajas",
                 "repo": "svelte-stepper",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1177,7 +1248,8 @@
                 "owner": "beynar",
                 "repo": "svelte-streamdown",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1191,8 +1263,9 @@
                 "last_commit": "2026-06-24T04:29:12Z",
                 "owner": "YusufCeng1z",
                 "repo": "svelte-bash",
-                "stars": 98
-              }
+                "stars": 99
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1207,7 +1280,8 @@
                 "owner": "embedz",
                 "repo": "embedz",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1222,7 +1296,8 @@
                 "owner": "himynameisdave",
                 "repo": "svelte-copyright",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1237,7 +1312,8 @@
                 "owner": "kpulkit29",
                 "repo": "svelte-tree-viewer",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1252,7 +1328,8 @@
                 "owner": "palerdot",
                 "repo": "svelte-speedometer",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1267,7 +1344,8 @@
                 "owner": "rofixro",
                 "repo": "css-3d-progress",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1282,7 +1360,8 @@
                 "owner": "WoolDoughnut310",
                 "repo": "mathjax-svelte",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1307,8 +1386,9 @@
             "last_commit": "2026-08-27T02:19:58Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82553
-          }
+            "stars": 82563
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1319,11 +1399,12 @@
             "archived": false,
             "id": 304344049,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T08:59:22Z",
+            "last_commit": "2026-08-28T02:24:13Z",
             "owner": "sveltejs",
             "repo": "kit",
-            "stars": 20764
-          }
+            "stars": 20766
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1338,7 +1419,8 @@
             "owner": "scosman",
             "repo": "CMSaasStarter",
             "stars": 2357
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1353,7 +1435,8 @@
             "owner": "tretapey",
             "repo": "svelte-pwa",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1368,7 +1451,8 @@
             "owner": "code-gio",
             "repo": "svelte-docs-starter",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1383,7 +1467,8 @@
             "owner": "phaserjs",
             "repo": "template-svelte",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1398,7 +1483,8 @@
             "owner": "GantonL",
             "repo": "templates",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1413,7 +1499,8 @@
             "owner": "tony-stark-eth",
             "repo": "vite-svelte-docker-template",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         }
       ],
       "title": "Scaffold"
@@ -1436,7 +1523,8 @@
                 "owner": "meursyphus",
                 "repo": "ssgoi",
                 "stars": 960
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1450,8 +1538,9 @@
                 "last_commit": "2026-08-23T19:29:05Z",
                 "owner": "jis3r",
                 "repo": "icons",
-                "stars": 450
-              }
+                "stars": 451
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1472,8 +1561,9 @@
                 "last_commit": "2026-08-10T10:53:37Z",
                 "owner": "PuruVJ",
                 "repo": "neodrag",
-                "stars": 2449
-              }
+                "stars": 2450
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1487,8 +1577,9 @@
                 "last_commit": "2026-07-31T16:01:21Z",
                 "owner": "thisuxhq",
                 "repo": "sveltednd",
-                "stars": 602
-              }
+                "stars": 601
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1510,7 +1601,8 @@
                 "owner": "ealush",
                 "repo": "vest",
                 "stars": 2665
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1525,7 +1617,8 @@
                 "owner": "dyaliCode",
                 "repo": "svelte-formly",
                 "stars": 254
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1540,7 +1633,8 @@
                 "owner": "pragmatic-engineering",
                 "repo": "svelte-form-builder-community",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "children": [
@@ -1557,7 +1651,8 @@
                     "owner": "HosseinShabani",
                     "repo": "svelte-checkbox",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:03:24.163Z"
                 },
                 {
                   "node_type": "item",
@@ -1572,7 +1667,8 @@
                     "owner": "beyonk",
                     "repo": "svelte-toggle",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:03:24.163Z"
                 }
               ],
               "description": "Individual form components.",
@@ -1599,7 +1695,8 @@
                 "owner": "ConsoleTVs",
                 "repo": "sswr",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1621,7 +1718,8 @@
                 "owner": "Rajaniraiyn",
                 "repo": "svelte-sound",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1643,7 +1741,8 @@
                 "owner": "vatro",
                 "repo": "svelthree",
                 "stars": 483
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1665,7 +1764,8 @@
                 "owner": "NicoClack",
                 "repo": "SvelteKit-Adapter-Versioned-Worker",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1687,7 +1787,8 @@
                 "owner": "romkor",
                 "repo": "svelte-portal",
                 "stars": 475
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1702,7 +1803,8 @@
                 "owner": "nasso",
                 "repo": "svelte-teleport",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1724,7 +1826,8 @@
                 "owner": "svelte-web-fonts",
                 "repo": "google",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1746,7 +1849,8 @@
                 "owner": "kaisermann",
                 "repo": "svelte-i18n",
                 "stars": 1377
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1761,7 +1865,8 @@
                 "owner": "sveltekit-i18n",
                 "repo": "lib",
                 "stars": 575
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1772,11 +1877,12 @@
                 "archived": false,
                 "id": 1001375218,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T15:17:11Z",
+                "last_commit": "2026-08-27T15:34:31Z",
                 "owner": "wuchalejs",
                 "repo": "wuchale",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1791,7 +1897,8 @@
                 "owner": "tolgee",
                 "repo": "tolgee-js",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1802,11 +1909,12 @@
                 "archived": false,
                 "id": 276360190,
                 "language": "Svelte",
-                "last_commit": "2026-08-26T10:54:27Z",
+                "last_commit": "2026-08-27T14:37:32Z",
                 "owner": "nubolab-ffwd",
                 "repo": "svelte-fluent",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -1821,7 +1929,8 @@
                 "owner": "i18n-pro",
                 "repo": "svelte",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -1847,7 +1956,8 @@
             "owner": "EmilTholin",
             "repo": "svelte-routing",
             "stars": 2051
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1862,7 +1972,8 @@
             "owner": "ItalyPaleAle",
             "repo": "svelte-spa-router",
             "stars": 1606
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1877,7 +1988,8 @@
             "owner": "AlexxNB",
             "repo": "tinro",
             "stars": 680
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1892,7 +2004,8 @@
             "owner": "jorgegorka",
             "repo": "svelte-router",
             "stars": 537
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1907,7 +2020,8 @@
             "owner": "mateothegreat",
             "repo": "svelte5-router",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1918,11 +2032,12 @@
             "archived": false,
             "id": 891105457,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:31:07Z",
+            "last_commit": "2026-08-28T02:52:55Z",
             "owner": "colinlienard",
             "repo": "sv-router",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1937,7 +2052,8 @@
             "owner": "howesteve",
             "repo": "elegua",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1952,7 +2068,8 @@
             "owner": "WJSoftware",
             "repo": "svelte-router",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1967,7 +2084,8 @@
             "owner": "arthurgermano",
             "repo": "svelte-client-router",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1982,7 +2100,8 @@
             "owner": "DanielSharkov",
             "repo": "svelte-router",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -1997,7 +2116,8 @@
             "owner": "shaunlee",
             "repo": "svelte-router",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         }
       ],
       "title": "Routers"
@@ -2018,7 +2138,8 @@
             "owner": "Elderjs",
             "repo": "elderjs",
             "stars": 2121
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "node_type": "item",
@@ -2033,7 +2154,8 @@
             "owner": "loukamb",
             "repo": "svelte-document",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         }
       ],
       "title": "Frameworks"
@@ -2050,11 +2172,12 @@
             "archived": false,
             "id": 1066256303,
             "language": "ReScript",
-            "last_commit": "2026-08-27T11:52:37Z",
+            "last_commit": "2026-08-27T20:15:42Z",
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 679
-          }
+            "stars": 680
+          },
+          "first_seen": "2026-08-28T07:03:24.163Z"
         },
         {
           "children": [
@@ -2071,7 +2194,8 @@
                 "owner": "Hugo-Dz",
                 "repo": "exe",
                 "stars": 579
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -2093,7 +2217,8 @@
                 "owner": "sveltejs",
                 "repo": "prettier-plugin-svelte",
                 "stars": 815
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -2108,7 +2233,8 @@
                 "owner": "sveltejs",
                 "repo": "eslint-plugin-svelte",
                 "stars": 401
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": "Lint and format your code.",
@@ -2129,8 +2255,9 @@
                 "last_commit": "2026-08-01T20:13:19Z",
                 "owner": "testing-library",
                 "repo": "svelte-testing-library",
-                "stars": 666
-              }
+                "stars": 667
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -2145,7 +2272,8 @@
                 "owner": "svelteness",
                 "repo": "svelte-jester",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -2160,7 +2288,8 @@
                 "owner": "rspieker",
                 "repo": "jest-transform-svelte",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -2184,7 +2313,8 @@
                     "owner": "coc-extensions",
                     "repo": "coc-svelte",
                     "stars": 180
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:03:24.163Z"
                 },
                 {
                   "node_type": "item",
@@ -2199,7 +2329,8 @@
                     "owner": "leafOfTree",
                     "repo": "vim-svelte-plugin",
                     "stars": 149
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:03:24.163Z"
                 }
               ],
               "description": null,
@@ -2232,7 +2363,8 @@
                 "owner": "oxide-lab",
                 "repo": "Oxide-Lab",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             },
             {
               "node_type": "item",
@@ -2247,7 +2379,8 @@
                 "owner": "Prismo-Studio",
                 "repo": "Zephyr",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T07:03:24.163Z"
             }
           ],
           "description": null,
@@ -2259,7 +2392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:11.180Z",
+    "last_updated": "2026-08-28T07:03:24.163Z",
     "original_repository_info": {
       "archived": false,
       "id": 299685925,
