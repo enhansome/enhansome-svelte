@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "GitHub Repo",
-              "description": null,
+              "description": "sveltejs/svelte",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 1113,
                 "owner": "sveltejs",
                 "repo": "svelte",
-                "stars": 88229,
+                "stars": 88230,
                 "topics": [
                   "compiler",
                   "template",
@@ -33,7 +33,7 @@
             {
               "node_type": "item",
               "title": "Changelog",
-              "description": null,
+              "description": "sveltejs/svelte",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -46,7 +46,7 @@
                 "open_issues": 1113,
                 "owner": "sveltejs",
                 "repo": "svelte",
-                "stars": 88229,
+                "stars": 88230,
                 "topics": [
                   "compiler",
                   "template",
@@ -1185,7 +1185,7 @@
                 "open_issues": 453,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24823,
+                "stars": 24825,
                 "topics": [
                   "feather-icons",
                   "figma",
@@ -1244,11 +1244,11 @@
                 "id": 1175458728,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T23:34:38Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-03T04:02:48Z",
+                "open_issues": 1,
                 "owner": "glincker",
                 "repo": "thesvg",
-                "stars": 2783,
+                "stars": 2785,
                 "topics": [
                   "agent-skills",
                   "aws",
@@ -1992,7 +1992,7 @@
                 "open_issues": 19,
                 "owner": "barvian",
                 "repo": "number-flow",
-                "stars": 7727,
+                "stars": 7726,
                 "topics": [
                   "accessible",
                   "animation",
@@ -2020,7 +2020,7 @@
                 "open_issues": 17,
                 "owner": "flyfish-dev",
                 "repo": "file-viewer",
-                "stars": 2458,
+                "stars": 2459,
                 "topics": [
                   "cad-viewer",
                   "document-preview",
@@ -2370,10 +2370,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T19:05:37Z",
-            "open_issues": 764,
+            "open_issues": 765,
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 83100,
+            "stars": 83101,
             "topics": [
               "build-tool",
               "dev-server",
@@ -2522,7 +2522,7 @@
             "language": "Svelte",
             "license": null,
             "last_commit": "2026-03-23T03:20:21Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "code-gio",
             "repo": "svelte-docs-starter",
             "stars": 91,
@@ -2847,7 +2847,7 @@
                 "id": 224295067,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:33:07Z",
+                "last_commit": "2026-10-03T04:15:44Z",
                 "open_issues": 63,
                 "owner": "ealush",
                 "repo": "vest",
@@ -3579,7 +3579,7 @@
             "id": 891105457,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:24:29Z",
+            "last_commit": "2026-10-03T02:19:24Z",
             "open_issues": 14,
             "owner": "colinlienard",
             "repo": "sv-router",
@@ -3944,8 +3944,8 @@
                 "id": 362455201,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:51:15Z",
-                "open_issues": 148,
+                "last_commit": "2026-10-03T04:45:14Z",
+                "open_issues": 150,
                 "owner": "sveltejs",
                 "repo": "eslint-plugin-svelte",
                 "stars": 408,
@@ -4248,7 +4248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:17:33.033Z",
+    "last_updated": "2026-10-03T05:12:55.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡ A curated list of awesome Svelte resources",
